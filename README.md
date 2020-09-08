@@ -1,5 +1,5 @@
 ## Hi everyone :wave:
-:books: I am a photonics engineering student.
+:books: I am a photonics engineer.
 
 :high_brightness: I'm interest in the quantum effects of photons, quantum computers and quantum communication.
 
